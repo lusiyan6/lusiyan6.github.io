@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lusiyan6.github.io/blog</id>
     <title>lusiyan-Blog Blog</title>
-    <updated>2023-02-04T00:00:00.000Z</updated>
+    <updated>2023-06-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lusiyan6.github.io/blog"/>
     <subtitle>lusiyan-Blog Blog</subtitle>
     <icon>https://lusiyan6.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[在线教育网站项目]]></title>
+        <id>https://lusiyan6.github.io/blog/2023/6/14/blod</id>
+        <link href="https://lusiyan6.github.io/blog/2023/6/14/blod"/>
+        <updated>2023-06-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[安装nuxt]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装nuxt">安装nuxt<a href="#安装nuxt" class="hash-link" aria-label="安装nuxt的直接链接" title="安装nuxt的直接链接">​</a></h2><p><a href="https://blog.csdn.net/qq_38347669/article/details/128849664?spm=1001.2101.3001.6661.1&amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-128849664-blog-127786237.235%5Ev38%5Epc_relevant_default_base&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-128849664-blog-127786237.235%5Ev38%5Epc_relevant_default_base&amp;utm_relevant_index=1" target="_blank" rel="noopener noreferrer">安装失败的解决办法</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B/S架构和C/S架构]]></title>
         <id>https://lusiyan6.github.io/blog/2023/2/4/blog</id>

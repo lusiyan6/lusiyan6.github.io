@@ -4,10 +4,18 @@
         <title>lusiyan-Blog Blog</title>
         <link>https://lusiyan6.github.io/blog</link>
         <description>lusiyan-Blog Blog</description>
-        <lastBuildDate>Sat, 04 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[在线教育网站项目]]></title>
+            <link>https://lusiyan6.github.io/blog/2023/6/14/blod</link>
+            <guid>https://lusiyan6.github.io/blog/2023/6/14/blod</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[安装nuxt]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安装nuxt">安装nuxt<a href="#安装nuxt" class="hash-link" aria-label="安装nuxt的直接链接" title="安装nuxt的直接链接">​</a></h2><p><a href="https://blog.csdn.net/qq_38347669/article/details/128849664?spm=1001.2101.3001.6661.1&amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-128849664-blog-127786237.235%5Ev38%5Epc_relevant_default_base&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-128849664-blog-127786237.235%5Ev38%5Epc_relevant_default_base&amp;utm_relevant_index=1" target="_blank" rel="noopener noreferrer">安装失败的解决办法</a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[B/S架构和C/S架构]]></title>
             <link>https://lusiyan6.github.io/blog/2023/2/4/blog</link>
